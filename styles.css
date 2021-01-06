@@ -1,0 +1,16 @@
+
+.redbox {
+background-color:red;
+  color:white; 
+    padding:25px;
+    margin:10px;
+    border:10px solid black;
+}
+
+.bluebox {
+background-color:blue;
+  color:white; 
+    padding:25px;
+    margin:10px;
+    border:10px solid black;
+}
